@@ -44,8 +44,8 @@ Productivity dashboard: submit meeting transcripts, get AI-generated action item
 
 ## Repository and live app
 
-- **GitHub:** (add your repo link)
-- **Live app:** (add your Vercel/hosted URL after deployment)
+- **GitHub:** (https://github.com/khushi89012/InsightBoard-AI)
+- **Live app:** (https://insight-board-ai-alpha.vercel.app/)
 
 ## Project structure
 
