@@ -47,6 +47,7 @@ Productivity dashboard: submit meeting transcripts, get AI-generated action item
 - **GitHub:** (https://github.com/khushi89012/InsightBoard-AI)
 - **Live app:** (https://insight-board-ai-alpha.vercel.app/)
 
+
 ## Project structure
 
 - `app/page.tsx` — Dashboard (client state, form submit, list + charts).
